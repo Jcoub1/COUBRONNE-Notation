@@ -1,4 +1,4 @@
 # COUBRONNE-Notation
 
-* *Nom*: COUBRONNE
-* *Prenom*: Jérôme
+* **Nom**: COUBRONNE
+* **Prenom**: Jérôme
